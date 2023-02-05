@@ -1,7 +1,7 @@
 //(c) A+ Computer Science
 //www.apluscompsci.com
 
-//Name - Andy Wang, Algs and Data Structure 
+//Name - Andy Wang, Algs and Data Structures
 
 import static java.lang.System.*;
 
